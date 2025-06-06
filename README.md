@@ -2,8 +2,14 @@
 
 ---
 
-[![Love98's GitHub stats](https://github-readme-stats.vercel.app/api?username=love98ooo)](https://github.com/anuraghazra/github-readme-stats)
-[![Love98's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=love98ooo&layout=compact&line_height=25)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=love98ooo&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=love98ooo&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5" />
+</a>
+
+---
 
 About me:
 - 🌱 I’m currently learning Java and Go

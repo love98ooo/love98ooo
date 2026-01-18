@@ -4,7 +4,7 @@
   <img height=165 align="center" src="https://github-readme-stats-mu-bice-33.vercel.app/api?username=love98ooo&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=165 align="center" src="https://github-readme-stats-mu-bice-33.vercel.app/api/top-langs/?username=love98ooo&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5" />
+  <img height=165 align="center" src="https://github-readme-stats-mu-bice-33.vercel.app/api/top-langs/?username=love98ooo&layout=compact&theme=transparent&size_weight=0.3&count_weight=0.7&langs_count=8&hide=html,Vue,Makefile,Dockerfile" />
 </a>
 
 ---
